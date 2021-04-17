@@ -10,7 +10,7 @@ $pip install secrets
 
 # Guide
 
-There are 3 main files. You use the first file `hexgen.py` to generate a number of n hex codes. Then associate each codes with any kind of string (i.e. A,B,C). 
+There are 3 main files. You use the first file `hexgen.py` to generate a number of hex tokens with 16 digits. Then associate each codes with any kind of string (i.e. A,B,C). 
 
 The codes will be saved to `hex.csv` in the following format: 
 
