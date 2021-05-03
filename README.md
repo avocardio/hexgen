@@ -5,7 +5,6 @@ A small hex code generator and authenticator.
 
 ```
 $pip install csv 
-$pip install secrets
 ```
 
 # Guide
